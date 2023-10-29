@@ -1,5 +1,5 @@
 .nav{
-    background-color: rgb(4, 182, 4);
+    background-color: darkred;
     height: 50px;
     width: 100%;
     padding: 0.6px;
@@ -8,7 +8,7 @@
 .items {
     display: flex;
     justify-content: space-between;
-    color: rgb(255, 0, 0);
+    color: rgb(186, 96, 96);
     margin-left: 15px;
 }
 ol{
@@ -22,7 +22,6 @@ ol{
 }
 .home{
     font-weight: 720;
-
     background-color: white;
     border: 1px solid black;
     border-radius: 3px;
@@ -30,6 +29,34 @@ ol{
     padding-left: 8px;
     padding-right: 8px;
 }
-.about[
+.about{
+    font-weight: 720;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
 
-]
+}
+.serv{
+    font-weight: 720;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.cont{
+    font-weight: 720;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.body{
+    background-color: rgb(249, 144, 144);
+}
