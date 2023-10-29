@@ -60,3 +60,8 @@ ol{
 .body{
     background-color: rgb(249, 144, 144);
 }
+.logo{
+    color: white;
+    font-style: italic;
+    font-family: cursive;
+}
