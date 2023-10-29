@@ -1,3 +1,35 @@
 .nav{
-    
+    background-color: rgb(4, 182, 4);
+    height: 50px;
+    width: 100%;
+    padding: 0.6px;
+    box-sizing: border-box;
 }
+.items {
+    display: flex;
+    justify-content: space-between;
+    color: rgb(255, 0, 0);
+    margin-left: 15px;
+}
+ol{
+    gap: 35px;
+    display: flex;
+    list-style: none;
+    margin-right: 20px;
+}
+.nav-ol li{
+
+}
+.home{
+    font-weight: 720;
+
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.about[
+
+]
